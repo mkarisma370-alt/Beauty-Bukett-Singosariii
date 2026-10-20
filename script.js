@@ -21,42 +21,42 @@ const PRODUK = [
   {
     id: 1,
     nama: "Buket Bunga 1",
-    gambar: "buket-1.jpeg",
+    gambar: "assets/buket-1.jpeg",
     deskripsi: "Lihat detail buket ini dan tanyakan informasi produknya.",
     kategori: "buket"
   },
   {
     id: 2,
     nama: "Buket Bunga 2",
-    gambar: "buket-2.jpeg",
+    gambar: "assets/buket-2.jpeg",
     deskripsi: "Lihat detail buket ini dan tanyakan informasi produknya.",
     kategori: "buket"
   },
   {
     id: 3,
     nama: "Buket Bunga 3",
-    gambar: "buket-3.jpeg",
+    gambar: "assets/buket-3.jpeg",
     deskripsi: "Lihat detail buket ini dan tanyakan informasi produknya.",
     kategori: "buket"
   },
   {
     id: 4,
     nama: "Buket Bunga 4",
-    gambar: "buket-4.jpeg",
+    gambar: "assets/buket-4.jpeg",
     deskripsi: "Lihat detail buket ini dan tanyakan informasi produknya.",
     kategori: "buket"
   },
   {
     id: 5,
     nama: "Buket Bunga 5",
-    gambar: "buket-5.jpeg",
+    gambar: "assets/buket-5.jpeg",
     deskripsi: "Lihat detail buket ini dan tanyakan informasi produknya.",
     kategori: "buket"
   },
   {
     id: 6,
     nama: "Buket Bunga 6",
-    gambar: "buket-6.jpeg",
+    gambar: "assets/buket-6.jpeg",
     deskripsi: "Lihat detail buket ini dan tanyakan informasi produknya.",
     kategori: "buket"
   }
